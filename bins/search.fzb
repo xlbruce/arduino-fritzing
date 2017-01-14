@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="blue">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-RF-EBM001-" modelIndex="5975" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-ebm001-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74f3591ccbd4ba20730577a93d0aeda9" modelIndex="5977" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/led-rgb-4pin-cathode_rbg.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini.5v" modelIndex="5979" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Arduino-Pro-Mini_5v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="5980" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HC-05-male_fix" modelIndex="5981" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/HC-05-male_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BGB203_BLUETOOTH-OLD" modelIndex="5982" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-bgb203_bluetooth-old.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-LED-LED_BARGRAPH_10-" modelIndex="5984" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-led-led_bargraph_10-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1206ColorLEDModuleID" modelIndex="5986" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/SMD_LED_generic_1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="805ColorLEDModuleID" modelIndex="5988" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/SMD_LED_generic_0805.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="CathodeLEDSuperfluxModuleID" modelIndex="5990" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/led_flux_blue_cathode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini3.3V" modelIndex="5992" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Arduino-Pro-Mini_3.3v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RGB_matrix_v25" modelIndex="5993" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/RGB_matrix_v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini-v13-a4+5" modelIndex="5995" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Arduino-Pro-Mini-v13-a4+5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BLUERADIO_BR-C40N-BAS" modelIndex="5996" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-blueradio_br-c40n-bas.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="5998" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="5999" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BLUETOOTH-RN41-_" modelIndex="6000" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-bluetooth-rn41-_.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BLUERADIO_BR-C40N-SFE" modelIndex="6002" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-blueradio_br-c40n-sfe.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BLUERADIO_BR-C40A-BAS" modelIndex="6004" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-blueradio_br-c40a-bas.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="dquidio" modelIndex="6006" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/dquidio.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IOIO-v15" modelIndex="6007" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/IOIO-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BALUN-0805" modelIndex="6009" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-balun-0805.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d4d5af9700923b8a114f57961f29a8a0" modelIndex="6011" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/led-rgb-4pin-cathode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AnodeLEDSuperfluxModuleID" modelIndex="6012" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/led_flux_blue_anode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="603ColorLEDModuleID" modelIndex="6013" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/SMD_LED_generic_0603.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="6015" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f5sadfcefde5f807268983b38d37da5dLEDModuleID" modelIndex="6017" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/led-rgb-4pin-anode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Trackballer-v12" modelIndex="6019" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Trackballer-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Bean_revE" modelIndex="6020" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Bean_revE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7e3598758afd7c1363215b7f0c124af8" modelIndex="6021" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="USBHostShield-v13" modelIndex="6023" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/USBHostShield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-WT32-" modelIndex="6024" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-wt32-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BLUERADIO_BR-C40N-INTERNAL" modelIndex="6026" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-blueradio_br-c40n-internal.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BLUERADIO_BR-C40N-INT2" modelIndex="6028" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-blueradio_br-c40n-int2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OBD-II-UART-v13" modelIndex="6030" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/OBD-II-UART-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RN41-v14" modelIndex="6032" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/RN41-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="6033" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Tricolor-LED v16" modelIndex="6035" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Tricolor-LED v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduinoBluetoothMatev13" modelIndex="6037" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/ArduinoBluetoothMatev13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-lightblue-bean-shield" modelIndex="6038" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/lightblue-bean-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_bt07" modelIndex="6040" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/Arduino_bt07.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BTM182-_" modelIndex="6041" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-btm182-_.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="0d35715c371dab9d8b52b3c09444f755" modelIndex="6043" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/led-rgb-4pin-anode_rbg.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-BGB203_BLUETOOTH-SMD" modelIndex="6045" path="/Volumes/Fritzing/Fritzing.app/Contents/MacOS/fritzing-parts/core/sparkfun-rf-bgb203_bluetooth-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>
